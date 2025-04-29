@@ -20,8 +20,8 @@ child pointer.
 ```
 /*
 Program to insert the elements in the binary search tree
-Developed by: AKSHARA C
-RegisterNumber: 212223220004 
+Developed by: HARSSHITHA LAKSHMANAN
+RegisterNumber: 212223230075
 */
 ```
 ```
